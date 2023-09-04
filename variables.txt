@@ -1,0 +1,5 @@
+db_host: data-engineer-cluster.cyhh5bfevlmn.us-east-1.redshift.amazonaws.com
+db_name: data-engineer-database
+db_password: NbOb637sCW
+db_port: 5439
+db_username: solaimanyamil_coderhouse
