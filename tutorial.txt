@@ -1,0 +1,6 @@
+Pasos a seguir para levantar la instancia de Airflow en un contenedor Docker:
+1. Instalar docker-compose.ymel.
+2. Inicializar (docker-compose up airflow init).
+3. Levantar en un localhost (docker-compose up).
+4. Completar variables de entorno de Airflow según el archivo variables.txt del repositorio.
+5. Correr DAG 'entregable3'.
